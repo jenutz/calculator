@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Main.qml</file>
+        <file>MainWindow.qml</file>
+        <file>SecretWindow.qml</file>
+        <file>Fonts.qml</file>
+        <file>Themes.qml</file>
+        <file>SimpleButton.qml</file>
+        <file>ActionButton.qml</file>
+    </qresource>
+</RCC>
+

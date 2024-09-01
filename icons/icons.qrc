@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>30/bkt.svg</file>
+        <file>30/division.svg</file>
+        <file>30/equal.svg</file>
+        <file>30/minus.svg</file>
+        <file>30/multiplication.svg</file>
+        <file>30/percent.svg</file>
+        <file>30/plus_minus.svg</file>
+        <file>30/plus.svg</file>    
+        <file>30/statusbar.svg</file>    
+    </qresource>
+</RCC>
